@@ -2,5 +2,20 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  
   <link media="all" rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  
+  <meta name="keywords" lang="en" content="App,Mobile,Development,iPhone,Apple Watch,Apple TV,iPad,iPod touch,iOS,Android,OS X,Apple,Contract Work,App Store,Software Engineering,Enticklung,Consultanct,Berlin,Germany{% if page.keywords %},{{ page.keywords}}{% endif %}" />
+  <meta name="author" lang="en" content="evenly GmbH" />
+
+  <meta name="publisher" content="evenly GmbH" />
+  <meta name="copyright" content="evenly GmbH" />	  
+  
+  <!-- Open Graph -->
+  <meta property="fb:app_id" content="{{ site.facebook_page_id }}" />
+  <meta property="og:type"  content="website" />
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:image" content="https://evenly.io/images/logo/evenly_logo_white_on_red_square@2x.png" />
+  <meta property="og:url" content="https://evenly.io" />
+  <meta property="og:description" content="{{ site.description }}" />
 </head>
