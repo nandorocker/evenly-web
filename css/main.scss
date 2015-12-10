@@ -808,6 +808,7 @@ $project-foreground-colors: (
       width: 100%;
       height: auto;
       vertical-align: top;
+      border-radius: 12px;
       -webkit-filter: drop-shadow(0px 0px 10px rgba(34,34,34,0.6));
       filter: drop-shadow(0px 0px 10px rgba(34,34,34,0.6));
     }
