@@ -1,5 +1,6 @@
 ---
 layout: projects
+dark-mode: true
 customclass: bvb
 title: Borussia Dortmund
 appstore: https://itunes.apple.com/de/app/borussia-dortmund/id454971210?mt=8

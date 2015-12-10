@@ -612,6 +612,12 @@ $project-foreground-colors: (
     }
 }
 #header {
+  &.dark-mode a {
+    color: #333 !important;
+    &:hover {
+      color: #FFF !important;
+    }
+  }
   &.project {
       @each $project, $background in $project-background-colors {
           &.#{$project} {
