@@ -1,5 +1,6 @@
 ---
 layout: projects
+color-mode: light-mode
 title: Semperoper Dresden
 customclass: semperoper
 appstore: https://itunes.apple.com/de/app/semperoper-dresden/id491070054?mt=8

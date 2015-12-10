@@ -1,5 +1,6 @@
 ---
 layout: projects
+color-mode: dark-mode
 customclass: digital
 appstore: https://itunes.apple.com/de/app/digital-concert-hall/id554616591?mt=8
 title: Digital Concert Hall

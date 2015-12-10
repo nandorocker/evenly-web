@@ -1,5 +1,6 @@
 ---
 layout: projects
+color-mode: light-mode
 customclass: culture
 appstore: https://itunes.apple.com/de/app/culture-touch-arte-cultural/id932880916?mt=8
 playstore: https://play.google.com/store/apps/details?id=tv.arte.culturetouch

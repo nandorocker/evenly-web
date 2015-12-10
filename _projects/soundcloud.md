@@ -1,5 +1,6 @@
 ---
 layout: projects
+color-mode: dark-mode
 title: SoundCloud
 customclass: soundcloud
 appstore: http://itunes.apple.com/us/app/soundcloud/id336353151
