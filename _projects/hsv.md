@@ -46,14 +46,5 @@ product-images:
       img-medium: /images/projects/hsv/hsv-3.jpeg
       img-medium-2x: /images/projects/hsv/hsv-3.jpeg
       img-description: HSV App
-
-    - device: iphone5
-      orientation: portrait
-      img: /images/projects/hsv/hsv-4.jpeg
-      img-small: /images/projects/hsv/hsv-4.jpeg
-      img-small-2x: /images/projects/hsv/hsv-4.jpeg
-      img-medium: /images/projects/hsv/hsv-4.jpeg
-      img-medium-2x: /images/projects/hsv/hsv-4.jpeg
-      img-description: HSV App
 ---
 
