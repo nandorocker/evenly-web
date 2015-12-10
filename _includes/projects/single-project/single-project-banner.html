@@ -1,6 +1,6 @@
 <div class="single-project-banner {{ page.customclass }}">
     <div class="container">
-        <div class="project-logo {{ page.color-mode }}">
+        <div class="project-logo {% if page.icon-color-mode %}{{ page.icon-color-mode }}{% else %} dark-mode {% endif %}">
             <img src="{{ page.logo }}" 
 				 srcset="{{ page.logo }}, {{ page.logo-2x }} 2x" 
 				 height="57" 
