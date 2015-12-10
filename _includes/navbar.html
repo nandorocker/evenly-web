@@ -3,10 +3,7 @@
         <a href="#" class="nav-opener"><span>menu</span></a>
         <div class="logo">
             <a href="/">
-                <!--<img src="/images/logo.png" srcset="/images/logo.svg"  height="29" width="122" alt="Evenly">-->
-                <object data="{% if page.dark-mode %}/images/logo-dark-03.svg{% else %}/images/logo.svg{% endif %}" type="image/svg+xml">
-                    <img src="/images/logo.png" />
-                </object>
+                <img src="/images/logo.png" srcset="/images/logo{% if page.dark-mode %}-dark{% endif %}.svg"  height="29" width="122" alt="Evenly">
             </a>
         </div>
         <nav id="nav">
