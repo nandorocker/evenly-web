@@ -622,6 +622,12 @@ $project-foreground-colors: (
       @each $project, $background in $project-background-colors {
           &.#{$project} {
               background: #{$background};
+              #nav {
+                background: #{$background};
+              }
+              li:hover a {
+                background: lighten( $background, 10% ) !important;
+              }
           }
       }
       @each $project, $foreground in $project-foreground-colors {
