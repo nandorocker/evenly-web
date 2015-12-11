@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://evenly.io" # the base hostname & protocol for your site
 twitter_username: evenly_io
 github_username:  evenlyio
-facebook_page_id: "317437064954106"
+facebook_page_id: "1474156202844845"
 
 exclude: [Gemfile, Gemfile.lock, README.md, Rakefile]
 
