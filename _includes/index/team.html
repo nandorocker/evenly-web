@@ -5,7 +5,7 @@
             {% for person in site.data.team %}
             <div class="team-member">
                 <div class="img-holder">
-                    <a href="#">
+                    <a href="/team#{{ person.lastname | cgi_escape }}">
                         <!-- picturefill: full manual control -->
                         <picture>
                             <!--[if IE 9]><video style="display: none;"><![endif]-->
@@ -17,7 +17,11 @@
                         </picture>
                     </a>
                 </div>
-                <strong class="name"><a href="#">{{ person.firstname }} <br>{{ person.lastname }}</a></strong>
+                <strong class="name">
+                    <a href="/team#{{ person.lastname | cgi_escape }}">
+                        {{ person.firstname }}<br>{{ person.lastname }}
+                    </a>
+                </strong>
             </div>
             {% endfor %}
         </div>

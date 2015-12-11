@@ -2,21 +2,19 @@
     <h2>We are</h2>
     <div class="team-membe-holder">
         {% for person in site.data.team %}
-            <div class="member-box">
+            <div class="member-box" id="{{ person.lastname | cgi_escape }}">
                 <div class="img-holder">
-                    <a href="#">
-                        <!-- picturefill: full manual control -->
-                        <picture>
-                            <!--[if IE 9]><video style="display: none;"><![endif]-->
-                            <source srcset="{{ person.img-small }}, {{ person.img-small-2x }} 2x" media="(max-width: 767px)">
-                            <source srcset="{{ person.img-medium }}, {{ person.img-medium-2x }} 2x" media="(max-width: 1023px)">
-                            <source srcset="{{ person.img }}">
-                            <!--[if IE 9]></video><![endif]-->
-                            <img src="{{ person.img }}" alt="{{ person.img-description }}">
-                        </picture>
-                    </a>
+                    <!-- picturefill: full manual control -->
+                    <picture>
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source srcset="{{ person.img-small }}, {{ person.img-small-2x }} 2x" media="(max-width: 767px)">
+                        <source srcset="{{ person.img-medium }}, {{ person.img-medium-2x }} 2x" media="(max-width: 1023px)">
+                        <source srcset="{{ person.img }}">
+                        <!--[if IE 9]></video><![endif]-->
+                        <img src="{{ person.img }}" alt="{{ person.img-description }}">
+                    </picture>
                 </div>
-                <strong class="name"><a href="#">{{ person.firstname }} <br>{{ person.lastname }}</a></strong>
+                <strong class="name">{{ person.firstname }} <br>{{ person.lastname }}</a></strong>
                 <ul class="social-share">
 					{% if person.email %}						
                     <li><a href="mailto:{{ person.email }}" class="email">{{ person.email }}</a></li>
