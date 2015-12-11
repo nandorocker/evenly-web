@@ -68,7 +68,12 @@ File name				|	Dimension
 ----------------|---------------
 [img].png				|	66 x 66px
 
+#### Color Mode
 
+You can add color modes for the navigation bar and the App Icon drop shadow.
+You can add the following variables on the markdowns:
+* `color-mode` - [dark-mode/light-mode] color mode for text on the navigation bar.
+* `icon-color-mode` - [dark-mode/light-mode] color mode for text on the navigation bar. *(optional)*
 
 #### Project Screenshot (Description)
 
@@ -92,3 +97,14 @@ File name				|	Dimension (Portrait)
 [img]-medium.png		|	274 x 485px
 [img]-small-2x.png		|	540 x 960px
 [img]-small.png			|	270 x 480px
+
+##### Available Devices for Screenshots
+You can select appropriate devices and its orientation for the screenshots.
+Use the following variables below and place it on the project markdowns:
+* `device` - The device that will be used on the screenshot. *(Refer to the Variable column on the table below)*
+* `orientation` - The orientation of the device.
+
+Device  | Variable | Orientation          |
+--------|----------|----------------------|
+iPhone  | iphone5  | Landscape / Portrait |
+iPad    | ipad     | Landscape / Portrait |
