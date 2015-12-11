@@ -1,5 +1,6 @@
 ---
 layout: projects
+color-mode: dark-mode
 title: Trivago
 customclass: trivago - The Hotel Search
 appstore: https://itunes.apple.com/us/app/id376888389

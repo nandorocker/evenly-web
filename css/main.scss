@@ -612,6 +612,12 @@ $project-foreground-colors: (
     }
 }
 #header {
+  &.dark-mode a {
+    color: #333 !important;
+    &:hover {
+      color: #FFF !important;
+    }
+  }
   &.project {
       @each $project, $background in $project-background-colors {
           &.#{$project} {
@@ -804,6 +810,10 @@ $project-foreground-colors: (
   .project-logo {
     margin: 0 auto 26px;
     width: 57px;
+    &.light-mode > img {
+      -webkit-filter: drop-shadow(0px 0px 10px rgba(210,210,210,0.5));
+      filter: drop-shadow(0px 0px 10px rgba(210,210,210,0.5));
+    }
     img {
       width: 100%;
       height: auto;

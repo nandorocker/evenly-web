@@ -1,9 +1,9 @@
-<header id="header" {% if page.layout == "projects" %}class="project {{ page.customclass }}"{% endif %}>
+<header id="header" class="{% if page.layout == "projects" %}project {{ page.customclass }}{% endif %} {{ page.color-mode }}">
     <div class="container">
         <a href="#" class="nav-opener"><span>menu</span></a>
         <div class="logo">
             <a href="/">
-                <img src="/images/logo.png" srcset="/images/logo.svg"  height="29" width="122" alt="Evenly">
+                <img src="/images/logo.png" srcset="/images/logo{% if page.color-mode == 'dark-mode' %}-dark{% endif %}.svg"  height="29" width="122" alt="Evenly">
             </a>
         </div>
         <nav id="nav">

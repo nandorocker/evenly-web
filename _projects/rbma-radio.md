@@ -1,5 +1,6 @@
 ---
 layout: projects
+color-mode: light-mode
 title: RedBull Music Academy Radio
 customclass: rbmar
 appstore: https://itunes.apple.com/us/app/rbma-radio/id616279460?mt=8

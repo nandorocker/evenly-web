@@ -1,5 +1,6 @@
 ---
 layout: projects
+color-mode: dark-mode
 customclass: impossible
 appstore: https://itunes.apple.com/de/app/impossible-project/id642124357?mt=8
 title: Impossible Project

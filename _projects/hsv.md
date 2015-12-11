@@ -1,5 +1,6 @@
 ---
 layout: projects
+color-mode: light-mode
 customclass: hsv
 title: Hamburger SV
 appstore: https://itunes.apple.com/de/app/hamburger-sv/id594247173?mt=8
