@@ -5,7 +5,7 @@ layout: default
 <div class="content-holder container">
     <h1>{{ page.title }}</h1>
     <div class="text">
-        <p>{{ page.description }}</p>
+        {{ page.description | markdownify }}
     </div>
     <h2>What we have to offer:</h2>
     <ul>
@@ -15,7 +15,7 @@ layout: default
     </ul>
     <h2>What we want from you:</h2>
     <div class="add-text">
-        <p>{{ page.wants }}</p>
+        {{ page.wants | markdownify }}
     </div>
     <h2>Apply here:</h2>
     <div class="apply-text">

@@ -8,7 +8,7 @@ offers:
     - Work closely with interesting clients
     - Build real Android applications – no cross platform.
   
-wants: >
+wants:   |
     - Build high quality applications on your favorite mobile platform.
     - Reading and writing German and English, at least one of those very well.
     - Good communication skills: Working in a team and with our clients.
