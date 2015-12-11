@@ -1,7 +1,7 @@
 # Site settings
 title: Evenly
 description: > # this means to ignore newlines until "baseurl:"
-  evenly is a software engineering consultancy for mobile software based in Berlin, Germany. We build mobile apps for iOS and Android.
+  Evenly is a software engineering consultancy for mobile software based in Berlin, Germany. We build high quality mobile apps for iOS and Android.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://evenly.io" # the base hostname & protocol for your site
 twitter_username: evenly_io
