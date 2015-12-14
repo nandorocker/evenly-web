@@ -22,30 +22,39 @@ hero-img-description: image description
 logo: /images/projects/soundcloud/icon-soundcloud.png
 logo-2x: /images/projects/soundcloud/icon-soundcloud@2x.png
 
-img: /images/img06.png
-img-small: /images/img06-small.png
-img-small-2x: /images/img06-small-2x.png
-img-medium: /images/img06-medium.png
-img-medium-2x: /images/img06-medium-2x.png
+img: /images/projects/soundcloud/soundcloud-0.jpg
+img-small: /images/projects/soundcloud/soundcloud-0.jpg
+img-small-2x: /images/projects/soundcloud/soundcloud-0.jpg
+img-medium: /images/projects/soundcloud/soundcloud-0.jpg
+img-medium-2x: /images/projects/soundcloud/soundcloud-0.jpg
 img-description: image description
-img-orientation: portrait
+img-orientation: SoundCloud iPhone App
 
-product-images:
+product-images:      
+    - device: ipad
+      orientation: landscape
+      img: /images/projects/soundcloud/soundcloud-1.jpg
+      img-small: /images/projects/soundcloud/soundcloud-1.jpg
+      img-small-2x: /images/projects/soundcloud/soundcloud-1.jpg
+      img-medium: /images/projects/soundcloud/soundcloud-1.jpg
+      img-medium-2x: /images/projects/soundcloud/soundcloud-1.jpg
+      img-description: SoundCloud iPad App
+      
     - device: iphone5
       orientation: portrait
-      img: https://placehold.it/640x1136
-      img-small: https://placehold.it/640x1136
-      img-small-2x: https://placehold.it/640x1136
-      img-medium: https://placehold.it/640x1136
-      img-medium-2x: https://placehold.it/640x1136
-      img-description: image description
-    
-    - device: iphone5
-      orientation: landscape
-      img: https://placehold.it/1136x640
-      img-small: https://placehold.it/1136x640
-      img-small-2x: https://placehold.it/1136x640
-      img-medium: https://placehold.it/1136x640
-      img-medium-2x: https://placehold.it/1136x640
-      img-description: image description
+      img: /images/projects/soundcloud/soundcloud-2.jpg
+      img-small: /images/projects/soundcloud/soundcloud-2.jpg
+      img-small-2x: /images/projects/soundcloud/soundcloud-2.jpg
+      img-medium: /images/projects/soundcloud/soundcloud-2.jpg
+      img-medium-2x: /images/projects/soundcloud/soundcloud-2.jpg
+      img-description: SoundCloud iPhone App      
+      
+    - device: ipad
+      orientation: portrait
+      img: /images/projects/soundcloud/soundcloud-3.jpg
+      img-small: /images/projects/soundcloud/soundcloud-3.jpg
+      img-small-2x: /images/projects/soundcloud/soundcloud-3.jpg
+      img-medium: /images/projects/soundcloud/soundcloud-3.jpg
+      img-medium-2x: /images/projects/soundcloud/soundcloud-3.jpg
+      img-description: SoundCloud iPad App            
 ---
