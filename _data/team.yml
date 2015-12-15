@@ -67,18 +67,6 @@
   img-medium-2x: /images/team/kevin-medium-2x.png
   img-description: Kevin Bettin
 
-- firstname: Jörg
-  lastname: Bühmann
-  email: joerg@evenly.io
-  twitter: orkoden
-  github: orkoden
-  img: /images/team/jorg.png
-  img-small: /images/team/jorg-small.png
-  img-small-2x: /images/team/jorg-small-2x.png
-  img-medium: /images/team/jorg-medium.png
-  img-medium-2x: /images/team/jorg-medium-2x.png
-  img-description: Jörg Bühmann
-  
 - firstname: Judith
   lastname: Lindemann
   email: judith@evenly.io
@@ -90,6 +78,18 @@
   img-medium: /images/team/judith-medium.png
   img-medium-2x: /images/team/judith-medium-2x.png
   img-description: Judith Lindemann
+
+- firstname: Jörg
+  lastname: Bühmann
+  email: joerg@evenly.io
+  twitter: orkoden
+  github: orkoden
+  img: /images/team/jorg.png
+  img-small: /images/team/jorg-small.png
+  img-small-2x: /images/team/jorg-small-2x.png
+  img-medium: /images/team/jorg-medium.png
+  img-medium-2x: /images/team/jorg-medium-2x.png
+  img-description: Jörg Bühmann
 
 - firstname: Anna-Lena
   lastname: König
