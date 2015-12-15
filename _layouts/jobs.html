@@ -4,19 +4,9 @@ layout: default
 
 <div class="content-holder container">
     <h1>{{ page.title }}</h1>
-    <div class="text">
-        {{ page.description | markdownify }}
-    </div>
-    <h2>What we have to offer:</h2>
-    <ul>
-        {% for offer in page.offers %}
-            <li>{{ offer }}</li>
-        {% endfor %}
-    </ul>
-    <h2>What we want from you:</h2>
-    <div class="add-text">
-        {{ page.wants | markdownify }}
-    </div>
+    
+    {{ content }}
+    
     <h2>Apply here:</h2>
     <div class="apply-text">
         <p>Send us an email with your CV, a cover letter and references to:</p>

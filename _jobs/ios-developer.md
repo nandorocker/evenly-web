@@ -1,22 +1,30 @@
 ---
 layout: jobs
-title: iOS Developer
-description: >
-    We at evenly are constantly looking for talented iOS developers to join our team in Berlin.
+title: iOS Engineer
+--- 
+
+We at evenly are looking for a talented iOS engineer to join our team in Berlin.
     
-offers: 
-    - Be part of the evenly team and help build high quality apps.
-    - Work closely with interesting clients.
-    - Build real iOS applications – no cross platform.
+## What we have to offer:
+
+- Be part of the evenly team and help build high quality apps.
+- Work closely with interesting clients and build beautiful apps such as [Berlin Philharmonics Digital Concert Hall](/projects/digital-concert-hall/) or the [Hamburger SV](/projects/hsv/)
+- Develop state of the art code with modern concepts such as MVVM or Functional-Reactive-Programming
+- Build real iOS applications – no cross platform.
+- Be part of a young and growing company with a great team
+- A great work-life balance
+- Nice work environment and an office in the heart of Berlin-Kreuzberg
+- And of course you will get the tools you need: a nice development machine, a phone and a tablet
     
-wants:    |
-    - Build high quality applications on your favorite mobile platform.
-    - Reading and writing German and English, at least one of those very well.
-    - Good communication skills: Working in a team and with our clients.
-    - 2+ years of iOS development experience.
-    - High quality code and knowledge of best practices (TDD, CI, Cocoapods, etc.)
-    - Eager to learn and improve your skills.
-    - At least basic knowledge of git or another DVCS.
-    - Development experience with at least one other environment (Web, Android, etc.)
-    - An eye for user interfaces and design is also highly appreciated.
----
+## What we want from you:
+
+ - Build high quality applications on your favorite mobile platform.
+ - Reading and writing German and English, at least one of those very well.
+ - Good communication skills: Working in a team and with our clients.
+ - 2+ years of iOS development experience.
+ - High quality code and knowledge of best practices (TDD, CI, Cocoapods, etc.)
+ - Eager to learn and improve your skills.
+ - At least basic knowledge of git or another DVCS.
+ - Development experience with at least one other environment (Web, Android, etc.)
+ - An eye for user interfaces and design is also highly appreciated.
+
