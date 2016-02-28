@@ -11,7 +11,7 @@ description:  |
    
    The app is beeing build on the same foundations as the successfull and highly aclaimed [iOS App](/projects/digital-concert-hall/). Just like it's mobile counterpart the Apple TV app was freshly designed from the ground up to take advantage of the Siri remote and the focus based navigation of tvOS. 
 
-   Stay tuned for more updates.
+   The app will be availible in Spring 2016. Stay tuned for more updates.
 
 hero-img: /images/img02.png
 hero-img-small: /images/img02-small.png
