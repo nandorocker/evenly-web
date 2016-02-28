@@ -2,7 +2,7 @@
 layout: projects
 color-mode: dark-mode
 customclass: dchtv
-title: Digital Concert Hall for Apple TV
+title: Digital Concert Hall for Apple&nbsp;TV
 small-description: The Digital Concert Hall by the Berlin Philharmonics is the worlds biggest collection of videos of classical concerts.
 description:  |
    Since the introduction of Apple's tvOS platform and the 4th generation Apple TV we have been working on bringing the Berlin Philharmonic's [Digital Concert Hall](https://www.digitalconcerthall.com/) to the big screen. 
@@ -59,5 +59,12 @@ product-images:
       img-medium-2x: /images/projects/dch/dch-tv-4.png
       img-description: Digital Concert Hall App for Apple TV            
     
-    
+    - device: tv
+      orientation: landscape
+      img: /images/projects/dch/dch-tv-5.png
+      img-small: /images/projects/dch/dch-tv-5.png
+      img-small-2x: /images/projects/dch/dch-tv-5.png
+      img-medium: /images/projects/dch/dch-tv-5.png
+      img-medium-2x: /images/projects/dch/dch-tv-5.png
+      img-description: Digital Concert Hall App for Apple TV           
 ---
