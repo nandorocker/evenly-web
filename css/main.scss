@@ -54,6 +54,7 @@ $project-foreground-colors: (
         'staramba': #fff        
 );
 
+$tvapps: ('dchtv');
 
 
 // ligatured operators ≥ ≤
@@ -80,6 +81,7 @@ $project-foreground-colors: (
   position: relative;
   width: 100%;
   margin: 55px 0 0;
+  padding-bottom: 25px;
   @include media('<large-desktop') {
     margin: 59px 0 0;
   }
@@ -850,6 +852,18 @@ $project-foreground-colors: (
       margin-bottom: 12px;
     }
   }
+  @each $tvapp in $tvapps {
+      &.#{$tvapp} {
+         .project-logo {
+             width: 200px;
+             img {
+                 width: 200px;
+                 border-radius: 0px;   
+             }
+         }
+     }
+  }
+  
   h1 {
     text-align: center;
     font: 400 35px/1.3 'Avenir_Black';
@@ -963,6 +977,9 @@ $project-foreground-colors: (
     vertical-align: top;
     width: 100%;
     height: auto;
+  }
+  .device-container {
+      margin-top: 20px;
   }
 }
 .project-btn-holder {

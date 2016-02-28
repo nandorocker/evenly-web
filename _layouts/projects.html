@@ -4,6 +4,8 @@ layout: default
 
 {% include projects/single-project/single-project-banner.html %}
 {% include projects/single-project/product-image-holder.html %}
+
+{% if project.listed %}
 <div class="project-pagination">
     {% for project in site.projects %}
         {% if project.title == page.title %}
@@ -26,3 +28,4 @@ layout: default
         {% endif %}
     {% endfor %}
 </div>
+{% endif %}
