@@ -1,7 +1,8 @@
 ---
 layout: projects
 color-mode: dark-mode
-customclass: digital
+customclass: dch
+listed: yes
 appstore: https://itunes.apple.com/de/app/digital-concert-hall/id554616591?mt=8
 title: Digital Concert Hall
 small-description: The Digital Concert Hall by the Berlin Philharmonics is the worlds biggest collection of videos of classical concerts.
@@ -17,60 +18,60 @@ hero-img-medium: /images/img02-medium.png
 hero-img-medium-2x: /images/img02-medium-2x.png
 hero-img-description: image description
 
-logo: /images/projects/digital/AppIcon57x57.png
-logo-2x: /images/projects/digital/AppIcon57x57@2x.png
+logo: /images/projects/dch/AppIcon57x57.png
+logo-2x: /images/projects/dch/AppIcon57x57@2x.png
 
-img: /images/projects/digital/dch-1.png
-img-small: /images/projects/digital/dch-1.png
-img-small-2x: /images/projects/digital/dch-1.png
-img-medium: /images/projects/digital/dch-1.png
-img-medium-2x: /images/projects/digital/dch-1.png
+img: /images/projects/dch/dch-1.png
+img-small: /images/projects/dch/dch-1.png
+img-small-2x: /images/projects/dch/dch-1.png
+img-medium: /images/projects/dch/dch-1.png
+img-medium-2x: /images/projects/dch/dch-1.png
 img-description: Digital Concert Hall App
 img-orientation: landscape
 
 product-images:
     - device: iphone5
       orientation: portrait
-      img: /images/projects/digital/dch-2.png
-      img-small: /images/projects/digital/dch-2.png
-      img-small-2x: /images/projects/digital/dch-2.png
-      img-medium: /images/projects/digital/dch-2.png
-      img-medium-2x: /images/projects/digital/dch-2.png
+      img: /images/projects/dch/dch-2.png
+      img-small: /images/projects/dch/dch-2.png
+      img-small-2x: /images/projects/dch/dch-2.png
+      img-medium: /images/projects/dch/dch-2.png
+      img-medium-2x: /images/projects/dch/dch-2.png
       img-description: Digital Concert Hall App iPhone
     
     - device: ipad
       orientation: landscape
-      img: /images/projects/digital/dch-3.png
-      img-small: /images/projects/digital/dch-3.png
-      img-small-2x: /images/projects/digital/dch-3.png
-      img-medium: /images/projects/digital/dch-3.png
-      img-medium-2x: /images/projects/digital/dch-3.png
+      img: /images/projects/dch/dch-3.png
+      img-small: /images/projects/dch/dch-3.png
+      img-small-2x: /images/projects/dch/dch-3.png
+      img-medium: /images/projects/dch/dch-3.png
+      img-medium-2x: /images/projects/dch/dch-3.png
       img-description: Digital Concert Hall App iPad
       
     - device: ipad
       orientation: landscape
-      img: /images/projects/digital/dch-4.png
-      img-small: /images/projects/digital/dch-4.png
-      img-small-2x: /images/projects/digital/dch-4.png
-      img-medium: /images/projects/digital/dch-4.png
-      img-medium-2x: /images/projects/digital/dch-4.png
+      img: /images/projects/dch/dch-4.png
+      img-small: /images/projects/dch/dch-4.png
+      img-small-2x: /images/projects/dch/dch-4.png
+      img-medium: /images/projects/dch/dch-4.png
+      img-medium-2x: /images/projects/dch/dch-4.png
       img-description: Digital Concert Hall App iPad
       
     - device: ipad
       orientation: landscape
-      img: /images/projects/digital/dch-5.png
-      img-small: /images/projects/digital/dch-5.png
-      img-small-2x: /images/projects/digital/dch-5.png
-      img-medium: /images/projects/digital/dch-5.png
-      img-medium-2x: /images/projects/digital/dch-5.png
+      img: /images/projects/dch/dch-5.png
+      img-small: /images/projects/dch/dch-5.png
+      img-small-2x: /images/projects/dch/dch-5.png
+      img-medium: /images/projects/dch/dch-5.png
+      img-medium-2x: /images/projects/dch/dch-5.png
       img-description: Digital Concert Hall App iPad
       
     - device: iphone5
       orientation: portrait
-      img: /images/projects/digital/dch-6.png
-      img-small: /images/projects/digital/dch-6.png
-      img-small-2x: /images/projects/digital/dch-6.png
-      img-medium: /images/projects/digital/dch-6.png
-      img-medium-2x: /images/projects/digital/dch-6.png
+      img: /images/projects/dch/dch-6.png
+      img-small: /images/projects/dch/dch-6.png
+      img-small-2x: /images/projects/dch/dch-6.png
+      img-medium: /images/projects/dch/dch-6.png
+      img-medium-2x: /images/projects/dch/dch-6.png
       img-description: Digital Concert Hall App iPhone
 ---

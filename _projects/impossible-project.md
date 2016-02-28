@@ -2,6 +2,7 @@
 layout: projects
 color-mode: dark-mode
 customclass: impossible
+listed: yes
 appstore: https://itunes.apple.com/de/app/impossible-project/id642124357?mt=8
 title: Impossible Project
 small-description: For the Impossible Project we developed an app that lets you expose your iPhones digital photos to analog instant film using the Instant Lab.

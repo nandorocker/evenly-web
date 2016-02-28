@@ -3,6 +3,7 @@ layout: projects
 color-mode: light-mode
 title: Staramba 3D
 customclass: staramba
+listed: yes
 appstore: https://itunes.apple.com/us/app/staramba-3d/id1058798067?mt=8
 small-description: Get yourself 3d-printed together with your favorite soccer player with Staramba 3D.
 description:   |

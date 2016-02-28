@@ -6,6 +6,7 @@
     </div>
     <div class="projects-item-holder same-height">
         {% for project in site.projects %}
+            {% if project.listed %}
             <div class="project-item {{ project.customclass }}">
                 <div class="height">
                     <strong class="title">{{ project.title }}</strong>
@@ -30,6 +31,7 @@
                     {% endif %}                
                 </div>
             </div>
+            {% endif %}            
         {% endfor %}
     </div>
 </div>

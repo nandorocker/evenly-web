@@ -3,6 +3,7 @@ layout: projects
 color-mode: light-mode
 title: Trivago
 customclass: trivago - The Hotel Search
+listed: yes
 appstore: https://itunes.apple.com/us/app/id376888389
 small-description: For trivago, the world's largest hotel search website, we built an app that lets you find the perfect place to stay.
 description:  |

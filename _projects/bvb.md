@@ -2,6 +2,7 @@
 layout: projects
 color-mode: dark-mode
 customclass: bvb
+listed: yes
 title: Borussia Dortmund
 appstore: https://itunes.apple.com/de/app/borussia-dortmund/id454971210?mt=8
 playstore: https://play.google.com/store/apps/details?id=de.bvb.android&hl=de

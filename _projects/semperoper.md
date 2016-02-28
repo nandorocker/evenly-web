@@ -3,6 +3,7 @@ layout: projects
 color-mode: light-mode
 title: Semperoper Dresden
 customclass: semperoper
+listed: yes
 appstore: https://itunes.apple.com/de/app/semperoper-dresden/id491070054?mt=8
 small-description: Together with Fons Hickmann M23 and New Image we designed and built the iPhone app for one of Germanys most famous opera houses, the Semperoper Dresden.
 description:  |

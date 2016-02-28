@@ -2,6 +2,7 @@
 layout: projects
 color-mode: light-mode
 title: 3D Around
+listed: yes
 appstore: https://itunes.apple.com/us/app/3daround/id940090549?mt=8
 small-description: Together with the Swiss company Dacuda we built an app making use of their advanced computer vision technology.
 description:   |
