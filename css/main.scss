@@ -100,13 +100,13 @@ $project-foreground-colors: (
 }
 .hero-banner {
   background: #e55943;
-  padding: 89px 15px;
+  padding: 49px 15px;
   overflow: hidden;
   @include media('<large-desktop') {
-    padding: 39px 25px 45px 33px;
+    padding: 39px 25px 25px 33px;
   }
   @include media('<desktop') {
-    padding: 89px 25px 79px;
+    padding: 49px 25px 29px;
   }
   @include media('<tablet') {
     padding: 26px 25px 10px;
@@ -134,8 +134,8 @@ $project-foreground-colors: (
     }
   }
   .animation-frame {
-    margin: 0 auto 75px;
-    max-width: 1200px;
+    margin: 0 auto 0;
+    max-width: 800px;
     position: relative;
     .img-screen {
       position: relative;
