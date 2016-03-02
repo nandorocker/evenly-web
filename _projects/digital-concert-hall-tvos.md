@@ -36,35 +36,35 @@ product-images:
       orientation: landscape
       img: /images/projects/dch/dch-tv-2.png
       img-small: /images/projects/dch/dch-tv-2.png
-      img-small-2x: /images/projects/dch/dch-tv-2.png
+      img-small-2x: /images/projects/dch/dch-tv-2@2x.png
       img-medium: /images/projects/dch/dch-tv-2.png
-      img-medium-2x: /images/projects/dch/dch-tv-2.png
+      img-medium-2x: /images/projects/dch/dch-tv-2@2x.png
       img-description: Digital Concert Hall App for Apple TV
       
     - device: tv
       orientation: landscape
       img: /images/projects/dch/dch-tv-3.png
       img-small: /images/projects/dch/dch-tv-3.png
-      img-small-2x: /images/projects/dch/dch-tv-3.png
+      img-small-2x: /images/projects/dch/dch-tv-3@2x.png
       img-medium: /images/projects/dch/dch-tv-3.png
-      img-medium-2x: /images/projects/dch/dch-tv-3.png
+      img-medium-2x: /images/projects/dch/dch-tv-3@2x.png
       img-description: Digital Concert Hall App for Apple TV
       
     - device: tv
       orientation: landscape
       img: /images/projects/dch/dch-tv-4.png
       img-small: /images/projects/dch/dch-tv-4.png
-      img-small-2x: /images/projects/dch/dch-tv-4.png
+      img-small-2x: /images/projects/dch/dch-tv-4@2x.png
       img-medium: /images/projects/dch/dch-tv-4.png
-      img-medium-2x: /images/projects/dch/dch-tv-4.png
+      img-medium-2x: /images/projects/dch/dch-tv-4@2x.png
       img-description: Digital Concert Hall App for Apple TV            
     
     - device: tv
       orientation: landscape
       img: /images/projects/dch/dch-tv-5.png
       img-small: /images/projects/dch/dch-tv-5.png
-      img-small-2x: /images/projects/dch/dch-tv-5.png
+      img-small-2x: /images/projects/dch/dch-tv-5@2x.png
       img-medium: /images/projects/dch/dch-tv-5.png
-      img-medium-2x: /images/projects/dch/dch-tv-5.png
+      img-medium-2x: /images/projects/dch/dch-tv-5@2x.png
       img-description: Digital Concert Hall App for Apple TV           
 ---
