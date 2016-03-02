@@ -91,6 +91,19 @@
   top: 11.0438729%; bottom: 14.6747352%; left: 13.364486%; right: 13.364486%;
 }
 
+/* TV */
+.device-mockup[data-device="tv"] {
+  padding-bottom: 60.28%;
+}
+
+.device-mockup[data-device="tv"] > .device {
+  background-image: url("tv/tv.png");
+}
+
+.device-mockup[data-device="tv"] > .device > .screen {
+  top: 2.65%; bottom: 2%; left: 2%; right: 2%;
+}
+
 
 /* iPhone5 */
 .device-mockup[data-device="iphone5"],

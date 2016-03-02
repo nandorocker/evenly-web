@@ -2,6 +2,7 @@
 layout: projects
 color-mode: light-mode
 customclass: arte
+listed: yes
 appstore: https://itunes.apple.com/de/app/arte/id405028510?mt=8
 playstore: https://play.google.com/store/apps/details?id=tv.arte.plus7&hl=de
 title: ARTE

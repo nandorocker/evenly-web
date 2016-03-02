@@ -3,6 +3,7 @@ layout: projects
 color-mode: dark-mode
 title: SoundCloud
 customclass: soundcloud
+listed: yes
 appstore: http://itunes.apple.com/us/app/soundcloud/id336353151
 small-description: SoundCloud is one of the biggest places for sharing music and sounds on the web. We built their first app.
 description:  |

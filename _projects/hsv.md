@@ -3,6 +3,7 @@ layout: projects
 color-mode: light-mode
 customclass: hsv
 title: Hamburger SV
+listed: yes
 appstore: https://itunes.apple.com/de/app/hamburger-sv/id594247173?mt=8
 playstore: https://play.google.com/store/apps/details?id=com.netcosports.andhambourg&hl=de
 small-description: We build the app for the HSV soccer club on behalf of SPORTFIVE.
