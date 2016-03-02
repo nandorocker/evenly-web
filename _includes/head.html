@@ -15,7 +15,7 @@
   <meta property="fb:app_id" content="{{ site.facebook_page_id }}" />
   <meta property="og:type"  content="website" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:image" content="https://evenly.io/images/logo/evenly_logo_white_on_red_square.png" />
+  <meta property="og:image" content="{% if page.og_image %}{{ page.og_image }}{% else %}https://evenly.io/images/logo/evenly_logo_white_on_red_square.png{% endif %}" />
   <meta property="og:url" content="https://evenly.io" />
   <meta property="og:description" content="{{ site.description }}" />
 </head>

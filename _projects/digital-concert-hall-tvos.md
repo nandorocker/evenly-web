@@ -2,6 +2,7 @@
 layout: projects
 color-mode: dark-mode
 customclass: dchtv
+og_image: https://evenly.io/images/projects/dch/dch-tv-1.png
 title: Digital Concert Hall for Apple&nbsp;TV
 small-description: The Digital Concert Hall by the Berlin Philharmonics is the worlds biggest collection of videos of classical concerts.
 description:  |
@@ -9,7 +10,7 @@ description:  |
    
    While it's not completly done we are excited to give you a sneak peek at our first tvOS project.
    
-   The app is beeing developed on the foundations as the successfull and highly acclaimed [iOS App](/projects/digital-concert-hall/). Just like its mobile counterpart the Apple TV app was freshly designed from the ground up to take advantage of the Siri remote and the focus based navigation of tvOS. 
+   The app is being developed on the foundations of the successful and highly acclaimed [iOS App](/projects/digital-concert-hall/). Just like its mobile counterpart the Apple TV app was freshly designed from the ground up to take advantage of the Siri remote and the focus based navigation of tvOS. 
 
    The app will be available in spring 2016. Stay tuned for more updates.
 
