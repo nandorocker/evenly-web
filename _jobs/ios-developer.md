@@ -3,7 +3,7 @@ layout: jobs
 title: iOS Engineer
 --- 
 
-We at evenly are looking for a talented iOS engineer to join our team in Berlin.
+We at evenly are looking for talented iOS engineers to join our team in Berlin. We're looking for an experienced iOS engineer as well as an iOS development intern.
     
 ## What we have to offer:
 
@@ -22,7 +22,7 @@ We at evenly are looking for a talented iOS engineer to join our team in Berlin.
  - Build high quality applications on your favorite mobile platform.
  - Reading and writing German and English, at least one of those very well.
  - Good communication skills: Working in a team and with our clients.
- - 2+ years of iOS development experience.
+ - 2+ years of iOS development experience. (not for the intern role)
  - High quality code and knowledge of best practices (TDD, CI, Cocoapods, etc.)
  - Eager to learn and improve your skills.
  - At least basic knowledge of git or another DVCS.
