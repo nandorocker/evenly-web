@@ -35,7 +35,8 @@ $project-background-colors: (
         'trivago': #7b7b7b,
         'carhartt':  #0e0e0e,
         'semperoper': rgb(210,35,42),
-        'staramba': rgb(21, 143, 222)
+        'staramba': rgb(21, 143, 222),
+        'grammofy': rgb(71, 97, 122)
 );
 
 $project-foreground-colors: (
@@ -51,7 +52,8 @@ $project-foreground-colors: (
         'trivago': #000,
         'carhartt': #fff,
         'semperoper': #fff,
-        'staramba': #fff        
+        'staramba': #fff,
+        'grammofy': rgb(253, 180, 8)          
 );
 
 $tvapps: ('dchtv');
