@@ -6,11 +6,11 @@ title: Hamburger SV
 listed: yes
 appstore: https://itunes.apple.com/de/app/hamburger-sv/id594247173?mt=8
 playstore: https://play.google.com/store/apps/details?id=com.netcosports.andhambourg&hl=de
-small-description: We build the app for the HSV soccer club on behalf of SPORTFIVE.
+small-description: We build the app for the HSV soccer club on behalf of Lagardère Sports Germany.
 description:  |
-    We are building the app for the HSV on behalf of [SPORTFIVE](http://www.sportfive.de). In 2015 we took over the development of the app from our friends at [Rheinfabrik](http://www.rheinfabrik.de).
+    We are building the app for the HSV on behalf of [Lagardère Sports Germany](http://de.lagardere-se.com/). In 2015 we took over the app development from our friends at [Rheinfabrik](http://www.rheinfabrik.de).
     The app features anything that a true HSV fan needs. There's news updates and information on the next games, detailed info about all players, social media integration and a digital version of the stadium magazine.
-    On a match day, the app transforms into an emotional realtime stream with detailed up to the minute infos, texts, videos and images.
+    On a match day, the app transforms into an emotional realtime stream with detailed up to the minute info, texts, videos and images.
 
 hero-img: /images/img02.png
 hero-img-small: /images/img02-small.png
