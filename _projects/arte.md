@@ -6,11 +6,13 @@ listed: yes
 appstore: https://itunes.apple.com/de/app/arte/id405028510?mt=8
 playstore: https://play.google.com/store/apps/details?id=tv.arte.plus7&hl=de
 title: ARTE
-small-description: Together with Novoda and Studio GOOD evenly reimagined the iPhone, iPad and Android apps for ARTE, the French-German TV channel.
+small-description: Together with Karlmax Berlin and Studio GOOD evenly rebuilt the iPhone, iPad and Android apps for ARTE, the French-German TV channel.
 appstore: https://itunes.apple.com/de/app/arte/id405028510?mt=8
 description:  |
-   We are building the app for the German-French TV channel ARTE. Together with [Novoda](https://www.novoda.com) and [Studio GOOD](http://www.studio-good.de) we reimagined their iPhone, iPad and Android Apps. The apps features a live stream as well as a media center that allows the user to enjoy previous movies, series, news and shows. The user can choose between a German and a French version with or without subtitles. There are also subtitles for the hearing-impaired.
-   Users can also mark shows as favorites and get push-notifications if they don't want to miss the show.
+   We are developing the app for the German-French TV channel ARTE. Together with [Karlmax Berlin](https://www.karlmaxberlin.de) and [Studio GOOD](http://www.studio-good.de) we reimagined their iPhone, iPad and Android Apps. The apps features a live stream as well as a media center that allows the user to catchup with movies, series, news and shows he has missed. The user can choose between a German and a French version with or without subtitles. There are also subtitles for the hearing-impaired.
+   Users can also mark shows as favorites and get push-notifications if they don't want to miss a show. 
+   
+   The updated version 4 features ARTE Club, which allows the user to sync favorites, recently watchted videos and his favoirte shows between devices and the website. We also added full access to ARTE's platform inclding ARTE Concert, which give access to several hundred concerts as well as festival recordings.
 
 
 
