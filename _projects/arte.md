@@ -9,7 +9,7 @@ title: ARTE
 small-description: Together with Karlmax Berlin and Studio GOOD evenly rebuilt the iPhone, iPad and Android apps for ARTE, the French-German TV channel.
 appstore: https://itunes.apple.com/de/app/arte/id405028510?mt=8
 description:  |
-   We are developing the app for the German-French TV channel ARTE. Together with [Karlmax Berlin](https://www.karlmaxberlin.de) and [Studio GOOD](http://www.studio-good.de) we reimagined their iPhone, iPad and Android Apps. The apps features a live stream as well as a media center that allows the user to catchup with movies, series, news and shows he has missed. The user can choose between a German and a French version with or without subtitles. There are also subtitles for the hearing-impaired.
+   We are developing the app for the German-French TV channel [ARTE](http://arte.tv). Together with [Karlmax Berlin](https://www.karlmaxberlin.de) and [Studio GOOD](http://www.studio-good.de) we reimagined their iPhone, iPad and Android Apps. The apps features a live stream as well as a media center that allows the user to catchup with movies, series, news and shows he has missed. The user can choose between a German and a French version with or without subtitles. There are also subtitles for the hearing-impaired.
    Users can also mark shows as favorites and get push-notifications if they don't want to miss a show. 
    
    The updated version 4 features ARTE Club, which allows the user to sync favorites, recently watchted videos and his favoirte shows between devices and the website. We also added full access to ARTE's platform inclding ARTE Concert, which give access to several hundred concerts as well as festival recordings.
@@ -36,7 +36,7 @@ img-orientation: landscape
 
 product-images:
     - device: ipad
-      orientation: landscape
+      orientation: portrait
       img: /images/projects/arte/arte-1.png
       img-small: /images/projects/arte/arte-1.png
       img-small-2x: /images/projects/arte/arte-1.png
@@ -53,21 +53,5 @@ product-images:
       img-medium-2x: /images/projects/arte/arte-2.png
       img-description: ARTE App iPad Mediathek Screenshot
 
-    - device: ipad
-      orientation: landscape
-      img: /images/projects/arte/arte-3.png
-      img-small: /images/projects/arte/arte-3.png
-      img-small-2x: /images/projects/arte/arte-3.png
-      img-medium: /images/projects/arte/arte-3.png
-      img-medium-2x: /images/projects/arte/arte-3.png
-      img-description: ARTE App iPad TV Guide Screenshot
-      
-    - device: ipad
-      orientation: landscape
-      img: /images/projects/arte/arte-4.png
-      img-small: /images/projects/arte/arte-4.png
-      img-small-2x: /images/projects/arte/arte-4.png
-      img-medium: /images/projects/arte/arte-4.png
-      img-medium-2x: /images/projects/arte/arte-4.png
-      img-description: ARTE App iPad Merkliste Screenshot
+
 ---
