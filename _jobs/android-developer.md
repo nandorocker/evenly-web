@@ -11,7 +11,6 @@ We at evenly are looking for an experienced Android developer to join our team i
 - Work closely with interesting clients on beautiful apps such as [ARTE](/projects/arte/) or [Borussia Dortmund](/projects/bvb/)     
 - Build real Android applications – no cross platform.
 - Develop state of the art code with modern concepts such as MVVM or Functional-Reactive-Programming
-- "Teach us about Android: Be the first Android developer at evenly"
 - Learn about iOS development 
 - Be part of a young and growing company with a great team
 - A great work-life balance
