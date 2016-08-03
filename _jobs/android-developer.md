@@ -29,3 +29,5 @@ We at evenly are looking for an experienced Android developer to join our team i
 - At least basic knowledge of git or another DVCS.
 - Development experience with at least one other environment (Web, iOS, etc.)
 - An eye for user interfaces and design is also highly appreciated.
+
+**Note:** This is an on site, full time position. Remote or freelance work is not possible.

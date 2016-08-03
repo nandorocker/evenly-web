@@ -29,3 +29,4 @@ We at evenly are looking for a talented iOS engineer to join our team in Berlin.
  - Development experience with at least one other environment (Web, Android, etc.)
  - An eye for user interfaces and design is also highly appreciated.
 
+**Note:** This is an on site, full time position. Remote or freelance work is not possible.
