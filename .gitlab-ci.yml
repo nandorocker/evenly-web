@@ -5,9 +5,10 @@ before_script:
   - export LC_ALL="en_US.UTF-8"
   - bundle   
   
-"Upload to evenly.io":
+deploy_to_webserver:
   stage: deploy
   script:
     - bundle exec rake deploy
   when: manual
-
+  only:
+      - /^master$/
