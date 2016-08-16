@@ -12,6 +12,9 @@ build_site:
     - bundle exec jekyll build
   only:
       - /^master$/
+  artifacts:
+     paths:
+        - _site/
 
   
 deploy_to_webserver:
@@ -21,3 +24,5 @@ deploy_to_webserver:
   when: manual
   only:
       - /^master$/
+  dependencies:
+     - build_site
