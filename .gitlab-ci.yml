@@ -1,14 +1,23 @@
 stages:
+  - build
   - deploy
   
 before_script:
   - export LC_ALL="en_US.UTF-8"
   - bundle   
+
+build_site:
+  stage: build
+  script:
+    - bundle exec jekyll build
+  only:
+      - /^master$/
+
   
 deploy_to_webserver:
   stage: deploy
   script:
-    - bundle exec rake deploy
+    - rsync -az --delete ./_site/ evenly@watson.bitfever.de:/home/evenly/www/
   when: manual
   only:
       - /^master$/
