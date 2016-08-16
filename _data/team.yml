@@ -103,4 +103,25 @@
   img-medium: /images/team/anna-lena-medium.png
   img-medium-2x: /images/team/anna-lena-medium-2x.png
   img-description: Anna-Lena König
+  
+- firstname: Andrea
+  lastname: Loddo
+  email: andrea@evenly.io
+  img: /images/team/andrea.png
+  img-small: /images/team/andrea-small.png
+  img-small-2x: /images/team/andrea-small-2x.png
+  img-medium: /images/team/andrea-medium.png
+  img-medium-2x: /images/team/andrea-medium-2x.png
+  img-description: Andrea Loddo
+  
+- firstname: Nelli
+  lastname: Hergenröther
+  email: nelli@evenly.io
+  twitter: no_vem_ber
+  img: /images/team/nelli.png
+  img-small: /images/team/nelli-small.png
+  img-small-2x: /images/team/nelli-small-2x.png
+  img-medium: /images/team/nelli-medium.png
+  img-medium-2x: /images/team/nelli-medium-2x.png
+  img-description: Nelli Hergenröther   
 
