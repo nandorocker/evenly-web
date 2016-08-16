@@ -10,5 +10,4 @@ before_script:
   script:
     - bundle exec rake deploy
   when: manual
-  only:
-      - /^master$/
+
