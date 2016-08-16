@@ -8,7 +8,12 @@ twitter_username: evenly_io
 github_username:  evenlyio
 facebook_page_id: "1474156202844845"
 
-exclude: [Gemfile, Gemfile.lock, README.md, Rakefile]
+exclude: 
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - Rakefile
+    - .gitlab-ci.yml
 
 # Contact details
 company_name: Evenly GmbH

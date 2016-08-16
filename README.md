@@ -1,10 +1,13 @@
 # Evenly
 
-## Workflow for evenly
-1. Clone from [https://github.com/evenlyio/evenly.github.io](https://github.com/evenlyio/evenly.github.io)
-2. Create local branch and make your changes
-3. Push branch to [https://github.com/evenlyio/evenly.github.io](https://github.com/evenlyio/evenly.github.io)
-4. Create pull request at [https://github.com/nandorocker/evenly.github.io](https://github.com/nandorocker/evenly.github.io)
+## Update evenly.io
+
+1. Update a file on master (can be done on Gitlab or clone locally)
+2. Go to [Pipelines](/internal/evenly-io/pipelines)
+3. See your change and click on the "Run" triangle icon
+4. Watch your changes appear on evenly.io 
+5. Check that all went well
+
 
 ## Building the website locally
 ### Prerequisites
