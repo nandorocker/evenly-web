@@ -4,11 +4,12 @@ stages:
   
 before_script:
   - export LC_ALL="en_US.UTF-8"
-  - bundle   
 
 build_site:
   stage: build
   script:
+    - bundle
+    - rm -rf _site
     - bundle exec jekyll build
   only:
       - /^master$/
