@@ -7,12 +7,11 @@ We at evenly are looking for an experienced Android developer to join our team i
     
 ## What we have to offer:
 
-- Be part of our small developer-run agency and help build the high quality apps
+- Be part of our small developer-run agency and help build high quality apps
 - Work closely with interesting clients on beautiful apps such as [ARTE](/projects/arte/) or [Borussia Dortmund](/projects/bvb/)     
 - Build real Android applications – no cross platform
 - Develop state of the art code with modern concepts such as MVVM or Functional-Reactive-Programming
-- Learn about iOS development 
-- Be part of a young and growing company with a great team
+- Learn about iOS development
 - Nice work environment and an office in the heart of Berlin-Kreuzberg
 - And of course you will get the tools you need: a nice development machine, a phone and a tablet
 
