@@ -13,6 +13,7 @@ We at Evenly are looking for a talented iOS engineer to join our team in Berlin.
 - Build real iOS applications – no cross platform
 - Work on iOS and [tvOS](/projects/digital-concert-hall-tvos/) apps
 - Nice work environment and an office in the heart of Berlin-Kreuzberg in a company managed by its founder
+- We care for your individual needs, so flexible working hours and home office days are always an option to make sure you have time for your family
 - And of course you will get the tools you need: a nice development machine, a phone and a tablet
 
 ## What we want from you:
