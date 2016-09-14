@@ -7,12 +7,12 @@ We at Evenly are looking for a talented iOS engineer to join our team in Berlin.
     
 ## What we have to offer:
 
-- Be part of our small developer-run agency and help build high quality apps
+- Be part of our small developer-run consultancy and help build high quality apps
 - Work closely with interesting clients and build beautiful apps such as [Berlin Philharmonics Digital Concert Hall](/projects/digital-concert-hall/) or the [Hamburger SV](/projects/hsv/)
 - Develop state of the art code with modern concepts such as MVVM or Functional-Reactive-Programming. And of course we use Swift as much as we can
 - Build real iOS applications – no cross platform
 - Work on iOS and [tvOS](/projects/digital-concert-hall-tvos/) apps
-- Nice work environment and an office in the heart of Berlin-Kreuzberg in a developer-run company
+- Nice work environment and an office in the heart of Berlin-Kreuzberg in a company managed by its founder
 - And of course you will get the tools you need: a nice development machine, a phone and a tablet
 
 ## What we want from you:
