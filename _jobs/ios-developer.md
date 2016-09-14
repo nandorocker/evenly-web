@@ -3,7 +3,7 @@ layout: jobs
 title: iOS Engineer
 --- 
 
-We at evenly are looking for a talented iOS engineer to join our team in Berlin.
+We at Evenly are looking for a talented iOS engineer to join our team in Berlin.
     
 ## What we have to offer:
 
@@ -12,7 +12,7 @@ We at evenly are looking for a talented iOS engineer to join our team in Berlin.
 - Develop state of the art code with modern concepts such as MVVM or Functional-Reactive-Programming. And of course we use Swift as much as we can
 - Build real iOS applications – no cross platform
 - Work on iOS and [tvOS](/projects/digital-concert-hall-tvos/) apps
-- Nice work environment and an office in the heart of Berlin-Kreuzberg in a developer run company
+- Nice work environment and an office in the heart of Berlin-Kreuzberg in a developer-run company
 - And of course you will get the tools you need: a nice development machine, a phone and a tablet
 
 ## What we want from you:
