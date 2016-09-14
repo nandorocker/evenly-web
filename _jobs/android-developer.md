@@ -13,6 +13,7 @@ We at Evenly are looking for an experienced Android developer to join our team i
 - Develop state of the art code with modern concepts such as MVVM or Functional-Reactive-Programming
 - Learn about iOS development
 - Nice work environment and an office in the heart of Berlin-Kreuzberg in a company managed by its founder
+- We care for your individual needs, so flexible working hours and home office days are always an option to make sure you have time for your family
 - And of course you will get the tools you need: a nice development machine, a phone and a tablet
 
 
