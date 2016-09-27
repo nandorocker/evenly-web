@@ -1,6 +1,7 @@
 ---
 layout: jobs
-title: Job: Android Engineer
+title: Android Engineer
+listed: yes
 ---
     
 We at Evenly are looking for an experienced Android developer to join our team in Berlin.    

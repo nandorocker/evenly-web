@@ -1,6 +1,8 @@
 <section class="looking-for-block container">
     <h2>We are looking for:</h2>
     {% for job in site.jobs %}
+        {% if job.listed %}
         <a href="{{ job.url }}" class="btn-primary">{{ job.title }}</a>
+        {% endif %}
     {% endfor %}
 </section>

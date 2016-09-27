@@ -1,6 +1,7 @@
 ---
 layout: jobs
-title: Job: iOS Engineer
+title: iOS Engineer
+listed: yes
 --- 
 
 We at Evenly are looking for a talented iOS engineer to join our team in Berlin.

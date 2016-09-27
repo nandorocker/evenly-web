@@ -1,7 +1,10 @@
 ---
 layout: jobs
-title: Job: Office Manager 
+title: "Office Manager"
+listed: yes
 ---
+
+[Deutsche Version](/jobs/office-manager-de)
     
 We at Evenly are looking for an office manager to substitute our current office manager during her maternity leave for 20h/week in Berlin.
 
