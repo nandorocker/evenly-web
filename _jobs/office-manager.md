@@ -1,6 +1,6 @@
 ---
 layout: jobs
-title: Office Manager
+title: Job: Office Manager 
 ---
     
 We at Evenly are looking for an office manager to substitute our current office manager during her maternity leave for 20h/week in Berlin.
