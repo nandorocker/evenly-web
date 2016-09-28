@@ -36,7 +36,8 @@ $project-background-colors: (
         'carhartt':  #0e0e0e,
         'semperoper': rgb(210,35,42),
         'staramba': rgb(21, 143, 222),
-        'grammofy': rgb(71, 97, 122)
+        'grammofy': rgb(253, 180, 8),
+        'funk': #71c0a4
 );
 
 $project-foreground-colors: (
@@ -53,7 +54,8 @@ $project-foreground-colors: (
         'carhartt': #fff,
         'semperoper': #fff,
         'staramba': #fff,
-        'grammofy': rgb(253, 180, 8)          
+        'grammofy': rgb(71, 97, 122),        
+        'funk': #fff
 );
 
 $tvapps: ('dchtv');
